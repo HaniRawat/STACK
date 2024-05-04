@@ -1,6 +1,6 @@
 Stack Data Structures and Algorithms
 
-This repository contains my solutions to various Data Structures and Algorithms (DSA) questions related to stacks. Stacks are a fundamental data structure in computer science, characterized by their Last-In-First-Out (LIFO) ordering principle.
+This repository contains my solutions to various Data Structures and Algorithms (DSA) questions related to stacks. Stacks are a fundamental data structure in computer science, characterized by their Last-In-First-Out (LIFO) ordering principle. I am using the Coder Army Sheet for these questions[https://docs.google.com/spreadsheets/d/1Pud-vdSPhhljScynHvTUGRE5yxEV6dCMb45rOwoSt_Q/edit#gid=0]
 
 Contents:
 
