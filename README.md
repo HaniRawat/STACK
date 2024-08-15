@@ -21,7 +21,7 @@ How to Use
 
 Clone this repository to your local machine:
 
-1.git clone <[repository-url](https://github.com/HaniRawat/STACK)>
+1.git clone <[repository-url]>
 
 2.Navigate to the directory containing the solution you're interested in.
 3.Open the file in your preferred code editor to view the solution.
